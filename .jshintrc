@@ -1,0 +1,6 @@
+{
+  "globals": {
+    "System": true
+  },
+  "undef": true
+}
