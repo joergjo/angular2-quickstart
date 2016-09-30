@@ -8,4 +8,4 @@ The build task is therefore simply meant to validate that all TypeScript source 
 ***
 | Angular 2  | TypeScript |
 | ---------- |------------| 
-| 2.0.0-rc.6 | 1.8.10     |
+| 2.0.0      | 2.0.3      |
